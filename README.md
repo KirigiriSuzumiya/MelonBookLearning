@@ -9,5 +9,5 @@
 
 ## task01
 
-- 第一章	[MelonBookLearning/第1章 绪论.md at main · KirigiriSuzumiya/MelonBookLearning (github.com)](https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/学习笔记/第1章 绪论.md)
-- 第二章    [MelonBookLearning/第2章 模型评估与选择.md at main · KirigiriSuzumiya/MelonBookLearning (github.com)](https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/学习笔记/第2章 模型评估与选择.md)
+- 第一章	https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.md
+- 第二章 https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%AC2%E7%AB%A0%20%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9.md
