@@ -9,12 +9,19 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
 ## task01
 
-- 第一章	https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%AC1%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.md
-- 第二章 https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%AC2%E7%AB%A0%20%E6%A8%A1%E5%9E%8B%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9.md
+- 第一章 https://blog.csdn.net/qq_31254785/article/details/124787681
+- 第二章 https://blog.csdn.net/qq_31254785/article/details/124787872
 
 ## task02
 
-- 第三章 https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B.md
+- 第三章 https://blog.csdn.net/qq_31254785/article/details/124807994
+
+## task03
+
+- 第四章 https://blog.csdn.net/qq_31254785/article/details/124994802
+
+
+
 
 
 
@@ -26,15 +33,15 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
 ------
 
-学习任务安排
+# 学习任务安排
 
-# Task00：开营，组队，熟悉规则（1天）
+## Task00：开营，组队，熟悉规则（1天）
 
 看一下导学课：https://www.bilibili.com/video/BV1Mh411e7VU?p=1
 
  
 
-# Task01：概览西瓜书+南瓜书第1、2章（2天）
+## Task01：概览西瓜书+南瓜书第1、2章（2天）
 
 打卡截止时间：5月18日03:00
 
@@ -46,7 +53,7 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
  
 
-# Task02：详读西瓜书+南瓜书第3章（6天）
+## Task02：详读西瓜书+南瓜书第3章（6天）
 
 打卡截止时间：5月24日03:00
 
@@ -80,7 +87,7 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
  
 
-# Task03：详读西瓜书+南瓜书第4章（3天）
+## Task03：详读西瓜书+南瓜书第4章（3天）
 
 打卡截止时间：5月27日03:00
 
@@ -92,7 +99,7 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
  
 
-# Task04：详读西瓜书+南瓜书第5章（3天）
+## Task04：详读西瓜书+南瓜书第5章（3天）
 
 打卡截止时间：5月30日03:00 
 
@@ -104,7 +111,7 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
  
 
-# Task05：详读西瓜书+南瓜书第6章（4天）
+## Task05：详读西瓜书+南瓜书第6章（4天）
 
 打卡截止时间：6月03日03:00 
 
