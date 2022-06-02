@@ -20,10 +20,13 @@ markdown文件中公式无法显示的话，去谷歌扩展程序安装MathJax P
 
 - 第四章 https://blog.csdn.net/qq_31254785/article/details/124994802
 
+## task04
 
+- 第五章 https://blog.csdn.net/qq_31254785/article/details/125024025
 
+## task05
 
-
+- 第六章 https://blog.csdn.net/qq_31254785/article/details/125104695
 
 
 
